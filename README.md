@@ -16,11 +16,8 @@ Local-first utilities, Chrome extensions, desktop apps, and WordPress AI product
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-f7df1e?style=flat-square&logo=javascript&logoColor=111111" />
   <img alt="Node.js" src="https://img.shields.io/badge/Node.js-3c873a?style=flat-square&logo=nodedotjs&logoColor=white" />
   <img alt="Chrome Extensions" src="https://img.shields.io/badge/Chrome%20Extensions-4285f4?style=flat-square&logo=googlechrome&logoColor=white" />
-  <img alt="Electron" src="https://img.shields.io/badge/Electron-47848f?style=flat-square&logo=electron&logoColor=white" />
-  <img alt="Next.js" src="https://img.shields.io/badge/Next.js-111111?style=flat-square&logo=nextdotjs&logoColor=white" />
   <img alt="WordPress" src="https://img.shields.io/badge/WordPress-21759b?style=flat-square&logo=wordpress&logoColor=white" />
   <img alt="macOS" src="https://img.shields.io/badge/macOS-111111?style=flat-square&logo=apple&logoColor=white" />
-  <img alt="Windows" src="https://img.shields.io/badge/Windows-0078d4?style=flat-square&logo=windows&logoColor=white" />
   <img alt="Local-First" src="https://img.shields.io/badge/Local--First-132238?style=flat-square&logo=sqlite&logoColor=7dd3fc" />
 </p>
 
