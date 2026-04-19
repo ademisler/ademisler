@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="680" height="120" viewBox="0 0 680 120" role="img" aria-labelledby="title desc">
+  <title id="title">ChefRise</title>
+  <desc id="desc">Dark link card for chefrise.app.</desc>
+  <rect width="680" height="120" rx="24" fill="#0b1017"/>
+  <rect x="1" y="1" width="678" height="118" rx="23" fill="none" stroke="#1c2633"/>
+  <circle cx="60" cy="60" r="30" fill="#ff7b2c"/>
+  <text x="60" y="69" text-anchor="middle" fill="#ffffff" font-family="Inter, Arial, sans-serif" font-size="24" font-weight="700">CH</text>
+  <text x="112" y="52" fill="#ffffff" font-family="Inter, Arial, sans-serif" font-size="28" font-weight="700">ChefRise</text>
+  <text x="112" y="80" fill="#97a3b6" font-family="Inter, Arial, sans-serif" font-size="18">chefrise.app</text>
+  <path d="M594 82c0-12 12-22 26-22 13 0 24-8 24-20 0-7-4-13-10-16" fill="none" stroke="#ff7b2c" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M604 44c6-10 18-16 31-16" fill="none" stroke="#ff7b2c" stroke-width="8" stroke-linecap="round"/>
+</svg>

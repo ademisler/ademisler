@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="680" height="120" viewBox="0 0 680 120" role="img" aria-labelledby="title desc">
+  <title id="title">CodexControl</title>
+  <desc id="desc">Dark link card for codexcontrol.app.</desc>
+  <rect width="680" height="120" rx="24" fill="#0b1017"/>
+  <rect x="1" y="1" width="678" height="118" rx="23" fill="none" stroke="#1c2633"/>
+  <circle cx="60" cy="60" r="28" fill="none" stroke="#63e287" stroke-width="10"/>
+  <circle cx="60" cy="60" r="10" fill="#ff5b5b"/>
+  <text x="112" y="52" fill="#ffffff" font-family="Inter, Arial, sans-serif" font-size="28" font-weight="700">CodexControl</text>
+  <text x="112" y="80" fill="#97a3b6" font-family="Inter, Arial, sans-serif" font-size="18">codexcontrol.app</text>
+  <path d="M592 44h44" fill="none" stroke="#63e287" stroke-width="8" stroke-linecap="round"/>
+  <path d="M592 60h56" fill="none" stroke="#97a3b6" stroke-width="8" stroke-linecap="round"/>
+  <path d="M592 76h30" fill="none" stroke="#ff5b5b" stroke-width="8" stroke-linecap="round"/>
+</svg>

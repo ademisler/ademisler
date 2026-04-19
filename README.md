@@ -8,6 +8,32 @@ I build practical AI tools, browser products, and automation software.
 
 Local-first utilities, Chrome extensions, desktop apps, and WordPress AI products with a strong bias toward speed, clarity, and maintainability.
 
+## On the Web
+
+<p>
+  <a href="https://ternrise.com">
+    <img src="./assets/sites/ternrise.svg" alt="Ternrise" width="48%" />
+  </a>
+  <a href="https://carenly.app">
+    <img src="./assets/sites/carenly.svg" alt="Carenly" width="48%" />
+  </a>
+</p>
+
+<p>
+  <a href="https://chefrise.app">
+    <img src="./assets/sites/chefrise.svg" alt="ChefRise" width="48%" />
+  </a>
+  <a href="https://codexcontrol.app">
+    <img src="./assets/sites/codexcontrol.svg" alt="CodexControl" width="48%" />
+  </a>
+</p>
+
+<p>
+  <a href="https://toolboard.github.io">
+    <img src="./assets/sites/toolboard.svg" alt="Toolboard" width="48%" />
+  </a>
+</p>
+
 ## Selected Work
 
 | Project | What it does |
@@ -36,5 +62,9 @@ Local-first utilities, Chrome extensions, desktop apps, and WordPress AI product
 ## Links
 
 - Website: [ademisler.com](https://ademisler.com)
-- Product: [codexcontrol.app](https://codexcontrol.app)
+- Ternrise: [ternrise.com](https://ternrise.com)
+- Carenly: [carenly.app](https://carenly.app)
+- ChefRise: [chefrise.app](https://chefrise.app)
+- CodexControl: [codexcontrol.app](https://codexcontrol.app)
+- Toolboard: [toolboard.github.io](https://toolboard.github.io)
 - GitHub: [@ademisler](https://github.com/ademisler)
