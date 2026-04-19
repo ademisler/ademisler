@@ -10,29 +10,11 @@ Local-first utilities, Chrome extensions, desktop apps, and WordPress AI product
 
 ## On the Web
 
-<p>
-  <a href="https://ternrise.com">
-    <img src="./assets/sites/ternrise.svg" alt="Ternrise" width="48%" />
-  </a>
-  <a href="https://carenly.app">
-    <img src="./assets/sites/carenly.svg" alt="Carenly" width="48%" />
-  </a>
-</p>
-
-<p>
-  <a href="https://chefrise.app">
-    <img src="./assets/sites/chefrise.svg" alt="ChefRise" width="48%" />
-  </a>
-  <a href="https://codexcontrol.app">
-    <img src="./assets/sites/codexcontrol.svg" alt="CodexControl" width="48%" />
-  </a>
-</p>
-
-<p>
-  <a href="https://toolboard.github.io">
-    <img src="./assets/sites/toolboard.svg" alt="Toolboard" width="48%" />
-  </a>
-</p>
+- [Ternrise](https://ternrise.com)
+- [Carenly](https://carenly.app)
+- [ChefRise](https://chefrise.app)
+- [CodexControl](https://codexcontrol.app)
+- [Toolboard](https://toolboard.github.io)
 
 ## Selected Work
 
