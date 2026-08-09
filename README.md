@@ -19,14 +19,10 @@ I build digital products at the intersection of **AI, systems, commerce, and des
   <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178c6?style=flat-square&logo=typescript&logoColor=white" />
   <img alt="Swift" src="https://img.shields.io/badge/Swift-f05138?style=flat-square&logo=swift&logoColor=white" />
   <img alt="Python" src="https://img.shields.io/badge/Python-3776ab?style=flat-square&logo=python&logoColor=white" />
-  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-f7df1e?style=flat-square&logo=javascript&logoColor=111111" />
-  <img alt="MCP" src="https://img.shields.io/badge/MCP-AI%20tooling-111827?style=flat-square" />
   <img alt="Tauri" src="https://img.shields.io/badge/Tauri-24c8db?style=flat-square&logo=tauri&logoColor=111111" />
   <img alt="Electron" src="https://img.shields.io/badge/Electron-47848f?style=flat-square&logo=electron&logoColor=white" />
   <img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
   <img alt="React Native" src="https://img.shields.io/badge/React%20Native-20232a?style=flat-square&logo=react&logoColor=61dafb" />
-  <img alt="Cloudflare" src="https://img.shields.io/badge/Cloudflare-f38020?style=flat-square&logo=cloudflare&logoColor=white" />
-  <img alt="Shopify" src="https://img.shields.io/badge/Shopify-7ab55c?style=flat-square&logo=shopify&logoColor=white" />
 </p>
 
 ## Featured open source
