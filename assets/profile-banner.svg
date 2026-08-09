@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 640" role="img" aria-labelledby="title desc">
-  <title id="title">Adem Isler profile banner</title>
-  <desc id="desc">Dark GitHub profile banner for Adem Isler with a green ring mark, red core, and selected focus areas.</desc>
+  <title id="title">Adem İşler profile banner</title>
+  <desc id="desc">Dark profile banner for Adem İşler, a product builder and software developer focused on local-first AI systems, MCP security, desktop software, and product engineering.</desc>
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
       <stop offset="0%" stop-color="#05070c"/>
@@ -35,26 +35,26 @@
   </g>
 
   <text x="310" y="220" fill="#ffffff" font-family="Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, sans-serif" font-size="76" font-weight="700" letter-spacing="-1.6">
-    Adem Isler
+    Adem İşler
   </text>
   <text x="310" y="280" fill="#c3cddd" font-family="Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, sans-serif" font-size="31" font-weight="500">
-    Practical AI tools, browser products, and automation software
+    Product builder &amp; software developer
   </text>
   <text x="310" y="338" fill="#79849a" font-family="Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, sans-serif" font-size="21" font-weight="400">
-    Building local-first utilities, clean desktop apps, and open-source workflows that ship fast
+    Local-first AI systems · MCP security · desktop software · product engineering
   </text>
 
   <g transform="translate(310 404)">
-    <rect x="0" y="0" width="170" height="46" rx="23" fill="#101723" stroke="#1d2636"/>
-    <text x="85" y="29" text-anchor="middle" fill="#d8e0ed" font-family="Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, sans-serif" font-size="18" font-weight="600">AI Tools</text>
+    <rect x="0" y="0" width="176" height="46" rx="23" fill="#101723" stroke="#1d2636"/>
+    <text x="88" y="29" text-anchor="middle" fill="#d8e0ed" font-family="Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, sans-serif" font-size="18" font-weight="600">AI Systems</text>
 
-    <rect x="188" y="0" width="210" height="46" rx="23" fill="#101723" stroke="#1d2636"/>
-    <text x="293" y="29" text-anchor="middle" fill="#d8e0ed" font-family="Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, sans-serif" font-size="18" font-weight="600">Browser Products</text>
+    <rect x="194" y="0" width="214" height="46" rx="23" fill="#101723" stroke="#1d2636"/>
+    <text x="301" y="29" text-anchor="middle" fill="#d8e0ed" font-family="Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, sans-serif" font-size="18" font-weight="600">MCP &amp; Security</text>
 
-    <rect x="416" y="0" width="182" height="46" rx="23" fill="#101723" stroke="#1d2636"/>
-    <text x="507" y="29" text-anchor="middle" fill="#d8e0ed" font-family="Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, sans-serif" font-size="18" font-weight="600">Desktop Apps</text>
+    <rect x="426" y="0" width="188" height="46" rx="23" fill="#101723" stroke="#1d2636"/>
+    <text x="520" y="29" text-anchor="middle" fill="#d8e0ed" font-family="Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, sans-serif" font-size="18" font-weight="600">Desktop Apps</text>
 
-    <rect x="616" y="0" width="224" height="46" rx="23" fill="#101723" stroke="#1d2636"/>
-    <text x="728" y="29" text-anchor="middle" fill="#d8e0ed" font-family="Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, sans-serif" font-size="18" font-weight="600">WordPress AI</text>
+    <rect x="632" y="0" width="244" height="46" rx="23" fill="#101723" stroke="#1d2636"/>
+    <text x="754" y="29" text-anchor="middle" fill="#d8e0ed" font-family="Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, sans-serif" font-size="18" font-weight="600">Product Engineering</text>
   </g>
 </svg>
