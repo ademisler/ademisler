@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="680" height="120" viewBox="0 0 680 120" role="img" aria-labelledby="title desc">
+  <title id="title">Ternrise</title>
+  <desc id="desc">Dark link card for ternrise.com.</desc>
+  <rect width="680" height="120" rx="24" fill="#0b1017"/>
+  <rect x="1" y="1" width="678" height="118" rx="23" fill="none" stroke="#1c2633"/>
+  <circle cx="60" cy="60" r="30" fill="#1d8f6b"/>
+  <text x="60" y="69" text-anchor="middle" fill="#ffffff" font-family="Inter, Arial, sans-serif" font-size="26" font-weight="700">TR</text>
+  <text x="112" y="52" fill="#ffffff" font-family="Inter, Arial, sans-serif" font-size="28" font-weight="700">Ternrise</text>
+  <text x="112" y="80" fill="#97a3b6" font-family="Inter, Arial, sans-serif" font-size="18">ternrise.com</text>
+  <path d="M618 42h-42v36h42" fill="none" stroke="#1d8f6b" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M595 60h65" fill="none" stroke="#1d8f6b" stroke-width="8" stroke-linecap="round"/>
+</svg>
